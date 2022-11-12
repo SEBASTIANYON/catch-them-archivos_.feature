@@ -12,9 +12,11 @@ Escenario: Agente de seguridad verifica la autenticidad de su negocio
     Entonces el agente de seguridad ingresa los campos <RUC>, <razon social>,
     <correo electronico>, <pais>, <documentos oficiales>
 
+        Y el agente de seguridad ingresa las <razones de uso del aplicativo>
+        
         Y la aplicacion muestra un <mensaje> de confirmacion
 
-        Y el agente de seguridad ingresa las <razones de uso del aplicativo>
+       
 
 
 Examples: Datos de entrada
