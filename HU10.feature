@@ -25,4 +25,4 @@ Examples: Datos de entrada
 Examples: Datos de salida
 
     |lista_policias_disponibles|mensaje|
-    |Jorge Ramirez, Rosa Campos,Juan Lopez|¡Se recibió tu solicitud, ya vienen en camino!|
+    |Jorge Ramirez, Rosa Campos, Juan Lopez|¡Se recibió tu solicitud, ya vienen en camino!|
